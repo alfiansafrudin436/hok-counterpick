@@ -1,0 +1,6522 @@
+{
+  "fetchedAt": "2026-11-13",
+  "dataUpdated": "2026-09-21",
+  "source": "https://hokmeta.pages.dev/api/heroes.json",
+  "attribution": "Data counter, build, arcana, dan spell: HOKMeta (hokmeta.pages.dev)",
+  "heroes": [
+    {
+      "name": "Agudo",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/TYN9rh81.png",
+      "counters": [
+        "Kongming",
+        "Daji"
+      ],
+      "counteredBy": [
+        "Ata",
+        "Han Xin"
+      ],
+      "build": [
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Deepfrost Siege",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1128.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Boots of Resistance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png"
+        }
+      ],
+      "arcana": [
+        "Red Moon",
+        "Hunt",
+        "Beast Scar"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Alessio",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/nnafEHV0.png",
+      "counters": [
+        "Mai Shiranui",
+        "Lian Po"
+      ],
+      "counteredBy": [
+        "Arke",
+        "Lady Sun"
+      ],
+      "build": [
+        {
+          "name": "Boots of Dexterity",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1425.png"
+        },
+        {
+          "name": "Shadow Ripper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1136.png"
+        },
+        {
+          "name": "Eternity Blade",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png"
+        },
+        {
+          "name": "Bloodweeper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1132.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        }
+      ],
+      "arcana": [
+        "Unparalleled",
+        "Calamity",
+        "Hunt"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Allain",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/Ek9OHopQ.png",
+      "counters": [
+        "Lu Bu",
+        "Zhuangzi"
+      ],
+      "counteredBy": [
+        "Sima Yi",
+        "Marco Polo"
+      ],
+      "build": [
+        {
+          "name": "Sparkforged Dagger",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1135.png"
+        },
+        {
+          "name": "Blazing Cape",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1331.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Stealth",
+        "Hunt"
+      ],
+      "spells": [
+        "Execute"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Angela",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/wjaExUFU.png",
+      "counters": [
+        "Jing",
+        "Athena",
+        "Zilong"
+      ],
+      "counteredBy": [
+        "Han Xin",
+        "Gao Changgong"
+      ],
+      "build": [
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Twilight Stream",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1727.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        },
+        {
+          "name": "Enigma - Moon Goddess",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1242.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Avarice",
+        "Hunt"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Annette",
+      "roles": [
+        "Support",
+        "Mage"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/49o0xBua.png",
+      "counters": [
+        "Data unavailable"
+      ],
+      "counteredBy": [
+        "Data unavailable"
+      ],
+      "build": [
+        {
+          "name": "Guardian - Redemption",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1751.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Frozen Breath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1234.png"
+        },
+        {
+          "name": "Glacial Buckler",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1336.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Void"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Ao'yin",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/OzH2TSZN.jpg",
+      "counters": [
+        "Liu Bei",
+        "Athena",
+        "Zilong"
+      ],
+      "counteredBy": [
+        "Kaizer",
+        "Dun",
+        "Arthur"
+      ],
+      "build": [
+        {
+          "name": "Boots of Dexterity",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1425.png"
+        },
+        {
+          "name": "Sparkforged Dagger",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1135.png"
+        },
+        {
+          "name": "Shadow Ripper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1136.png"
+        },
+        {
+          "name": "Eternity Blade",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png"
+        },
+        {
+          "name": "Tempest",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1159.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        }
+      ],
+      "arcana": [
+        "Red Moon",
+        "Hunt",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "heal",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Arke",
+      "roles": [
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/IUMPYUy4.png",
+      "counters": [
+        "Alessio",
+        "Da Qiao"
+      ],
+      "counteredBy": [
+        "Bai Qi",
+        "Arthur",
+        "Cai Yan"
+      ],
+      "build": [
+        {
+          "name": "Boots of Resistance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png"
+        },
+        {
+          "name": "Master Sword",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1134.png"
+        },
+        {
+          "name": "Eternity Blade",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png"
+        },
+        {
+          "name": "Cuirass of Savagery",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Unparalleled",
+        "Stealth",
+        "Hunt"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Arli",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/hF8AFVqh.png",
+      "counters": [
+        "Kaizer",
+        "Angela"
+      ],
+      "counteredBy": [
+        "Donghuang",
+        "Daji"
+      ],
+      "build": [
+        {
+          "name": "Sparkforged Dagger",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1135.png"
+        },
+        {
+          "name": "Doomsday",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Eternity Blade",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png"
+        },
+        {
+          "name": "Sunchaser",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1141.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Red Moon",
+        "Reaver",
+        "Hunt"
+      ],
+      "spells": [
+        "Frenzy"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Arthur",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/YTBrsBIg.png",
+      "counters": [
+        "Han Xin",
+        "Arke"
+      ],
+      "counteredBy": [
+        "Xiang Yu",
+        "Lady Sun"
+      ],
+      "build": [
+        {
+          "name": "Dragon's Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1536.png"
+        },
+        {
+          "name": "Glacial Buckler",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1336.png"
+        },
+        {
+          "name": "Boots of Resistance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Stealth",
+        "Void"
+      ],
+      "spells": [
+        "Execute"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Ata",
+      "roles": [
+        "Tank"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/eafz1moy.png",
+      "counters": [
+        "Agudo",
+        "Meng Ya",
+        "Luara"
+      ],
+      "counteredBy": [
+        "Jing",
+        "Wukong",
+        "Musashi"
+      ],
+      "build": [
+        {
+          "name": "Spikemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1327.png"
+        },
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Longevity",
+        "Void"
+      ],
+      "spells": [
+        "Execute"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Athena",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/BEh6QC3Q.png",
+      "counters": [
+        "Dharma",
+        "Gao Changgong"
+      ],
+      "counteredBy": [
+        "Sun Bin",
+        "Guan Yu"
+      ],
+      "build": [
+        {
+          "name": "Frostscar's Embrace",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/13310.png"
+        },
+        {
+          "name": "Doomsday",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png"
+        },
+        {
+          "name": "Dragon's Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1536.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Red Moon",
+        "Reaver"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Augran",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/ue6KY05b.png",
+      "counters": [
+        "Mai Shiranui",
+        "Nezha"
+      ],
+      "counteredBy": [
+        "Liu Bei"
+      ],
+      "build": [
+        {
+          "name": "Shadow Ripper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1136.png"
+        },
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Eye of the Phoenix",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1334.png"
+        },
+        {
+          "name": "Doomsday",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Calamity",
+        "Red Moon",
+        "Beast Scar"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Bai Qi",
+      "roles": [
+        "Tank"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/uY7c38Tt.png",
+      "counters": [
+        "Arke",
+        "Garo"
+      ],
+      "counteredBy": [
+        "Zhuangzi",
+        "Ying Zheng"
+      ],
+      "build": [
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Longnight Guardian",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1347.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Longevity",
+        "Void"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Biron",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/F3A0JkoT.png",
+      "counters": [
+        "Dun",
+        "Wukong"
+      ],
+      "counteredBy": [
+        "Lady Sun",
+        "Sun Bin"
+      ],
+      "build": [
+        {
+          "name": "Frostscar's Embrace",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/13310.png"
+        },
+        {
+          "name": "Eye of the Phoenix",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1334.png"
+        },
+        {
+          "name": "Pure Sky",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png"
+        },
+        {
+          "name": "Dawnlight",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1353.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Immovable - Sky Dome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1157.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Calamity",
+        "Hunt"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Butterfly",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/FPq2P4ew.png",
+      "counters": [
+        "Heino",
+        "Sakeer",
+        "Angela"
+      ],
+      "counteredBy": [
+        "Hou Yi",
+        "Marco Polo",
+        "Lady Sun"
+      ],
+      "build": [
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Master Sword",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1134.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Pure Sky",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Immovable - Sky Dome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1157.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Hunt",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Cai Yan",
+      "roles": [
+        "Support"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/kQXkW7ab.png",
+      "counters": [
+        "Diaochan",
+        "Arke"
+      ],
+      "counteredBy": [
+        "Gao Changgong",
+        "Mulan"
+      ],
+      "build": [
+        {
+          "name": "Eye of the Phoenix",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1334.png"
+        },
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        }
+      ],
+      "arcana": [
+        "Saint",
+        "Harmony",
+        "Tribute"
+      ],
+      "spells": [
+        "Heal"
+      ],
+      "traits": [
+        "heal",
+        "cc"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Chano",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/default/sJURXorM.png",
+      "counters": [
+        "Liu Bei",
+        "Shouyue"
+      ],
+      "counteredBy": [
+        "Ziya",
+        "Mai Shiranui"
+      ],
+      "build": [
+        {
+          "name": "Eternity Blade",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Sunchaser",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1141.png"
+        },
+        {
+          "name": "Bloodweeper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1132.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Haste - Sunpool",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1156.png"
+        }
+      ],
+      "arcana": [
+        "Calamity",
+        "Reaver",
+        "Hunt"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Charlotte",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/iIwO0Kwk.png",
+      "counters": [
+        "Fuzi",
+        "Hou Yi"
+      ],
+      "counteredBy": [
+        "Arli",
+        "Kaizer"
+      ],
+      "build": [
+        {
+          "name": "Boots of Resistance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png"
+        },
+        {
+          "name": "Dragon's Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1536.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Ravage - Phantom",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1350.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Chicha",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/lkU98jAV.png",
+      "counters": [
+        "Sakeer",
+        "Angela",
+        "Guiguzi"
+      ],
+      "counteredBy": [
+        "Hou Yi",
+        "Marco Polo",
+        "Lady Sun"
+      ],
+      "build": [
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Eternity Blade",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png"
+        },
+        {
+          "name": "Cuirass of Savagery",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Spikemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1327.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Frenzy"
+      ],
+      "traits": [
+        "heal",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Cirrus",
+      "roles": [
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/bwygx1aS.png",
+      "counters": [
+        "Hou Yi",
+        "Xiao Qiao"
+      ],
+      "counteredBy": [
+        "Di Renjie",
+        "Mulan"
+      ],
+      "build": [
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Mortal Punisher",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11210.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Master Sword",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1134.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        }
+      ],
+      "arcana": [
+        "Unparalleled",
+        "Hunt",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Consort Yu",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/Ku5RzFmQ.png",
+      "counters": [
+        "Marco Polo",
+        "Han Xin"
+      ],
+      "counteredBy": [
+        "Luna",
+        "Diaochan"
+      ],
+      "build": [
+        {
+          "name": "Sunchaser",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1141.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Haste - Sunpool",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1156.png"
+        },
+        {
+          "name": "Mortal Punisher",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11210.png"
+        }
+      ],
+      "arcana": [
+        "Calamity",
+        "Hunt",
+        "Reaver"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Da Qiao",
+      "roles": [
+        "Support",
+        "Mage"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/IEPtzR5z.png",
+      "counters": [
+        "Luna",
+        "Mozi"
+      ],
+      "counteredBy": [
+        "Arke",
+        "Han Xin"
+      ],
+      "build": [
+        {
+          "name": "Sage's Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png"
+        },
+        {
+          "name": "Boots of the Arcane",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1424.png"
+        },
+        {
+          "name": "Venomous Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/12211.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Twilight Stream",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1727.png"
+        },
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Reincarnation",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Daji",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/dYxuS6IA.png",
+      "counters": [
+        "Luna",
+        "Diaochan"
+      ],
+      "counteredBy": [
+        "Gao Changgong",
+        "Mulan"
+      ],
+      "build": [
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Sage's Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Hunt",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Devara",
+      "roles": [
+        "Fighter",
+        "Mage"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/default/MagzAk8i.png",
+      "counters": [
+        "Data unavailable"
+      ],
+      "counteredBy": [
+        "Data unavailable"
+      ],
+      "build": [
+        {
+          "name": "Dragon's Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1536.png"
+        },
+        {
+          "name": "Doomsday",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Amble - Winter",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1351.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Hunt",
+        "Bulwark"
+      ],
+      "spells": [
+        "Teleport"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Dharma",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/9u997w0x.png",
+      "counters": [
+        "Wang Zhaojun",
+        "Han Xin"
+      ],
+      "counteredBy": [
+        "Xiang Yu",
+        "Diaochan"
+      ],
+      "build": [
+        {
+          "name": "Frostscar's Embrace",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/13310.png"
+        },
+        {
+          "name": "Demonsbane",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1125.png"
+        },
+        {
+          "name": "Starbreaker",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1131.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Di Renjie",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/XTSDAJkR.png",
+      "counters": [
+        "Mai Shiranui",
+        "Ukyo Tachibana",
+        "Ying"
+      ],
+      "counteredBy": [
+        "Kaizer",
+        "Dun",
+        "Arthur"
+      ],
+      "build": [
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Frostscar's Embrace",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/13310.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        },
+        {
+          "name": "Cuirass of Savagery",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png"
+        },
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Reaver",
+        "Beast Scar"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Dian Wei",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/y6IMFSlI.png",
+      "counters": [
+        "Marco Polo",
+        "Musashi"
+      ],
+      "counteredBy": [
+        "Sun Bin",
+        "Diaochan"
+      ],
+      "build": [
+        {
+          "name": "Master Sword",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1134.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Ravage - Phantom",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1350.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Calamity",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "heal",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Diaochan",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/qFBebEbk.png",
+      "counters": [
+        "Luna",
+        "Zhang Fei"
+      ],
+      "counteredBy": [
+        "Liang",
+        "Mulan"
+      ],
+      "build": [
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Frozen Breath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1234.png"
+        },
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Eye of the Phoenix",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1334.png"
+        },
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Longevity",
+        "Reincarnation"
+      ],
+      "spells": [
+        "Teleport"
+      ],
+      "traits": [
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Dolia",
+      "roles": [
+        "Support"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/tfvb3IJf.png",
+      "counters": [
+        "Dun",
+        "Yaria"
+      ],
+      "counteredBy": [
+        "Sima Yi",
+        "Guiguzi"
+      ],
+      "build": [
+        {
+          "name": "Boots of the Arcane",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1424.png"
+        },
+        {
+          "name": "Holy Grail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1226.png"
+        },
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Frozen Breath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1234.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Void"
+      ],
+      "spells": [
+        "Heal"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Donghuang",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/PRcq49iS.png",
+      "counters": [
+        "Allain",
+        "Cirrus",
+        "Kaizer"
+      ],
+      "counteredBy": [
+        "Wukong",
+        "Musashi",
+        "Ying"
+      ],
+      "build": [
+        {
+          "name": "Dawnlight",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1353.png"
+        },
+        {
+          "name": "Eye of the Phoenix",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1334.png"
+        },
+        {
+          "name": "Blazing Cape",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1331.png"
+        },
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Void"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "heal",
+        "cc"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Dr Bian",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/YmpeG9H2.png",
+      "counters": [
+        "Mai Shiranui",
+        "Diaochan"
+      ],
+      "counteredBy": [
+        "Yang Jian"
+      ],
+      "build": [
+        {
+          "name": "Augur's Word",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1237.png"
+        },
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        },
+        {
+          "name": "Sage's Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Hunt",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "heal",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Dun",
+      "roles": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/23rrkYYy.png",
+      "counters": [
+        "Diaochan",
+        "Fang",
+        "Erin"
+      ],
+      "counteredBy": [
+        "Han Xin",
+        "Li Bai",
+        "Wukong"
+      ],
+      "build": [
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Longnight Guardian",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1347.png"
+        },
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Amble - Winter",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1351.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Hunt",
+        "Void"
+      ],
+      "spells": [
+        "Execute"
+      ],
+      "traits": [
+        "cc"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Dyadia",
+      "roles": [
+        "Support",
+        "Mage"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/Qdvu6qgO.png",
+      "counters": [
+        "Dian Wei",
+        "Liu Bei",
+        "Musashi"
+      ],
+      "counteredBy": [
+        "Wukong",
+        "Musashi",
+        "Ying"
+      ],
+      "build": [
+        {
+          "name": "Venomous Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/12211.png"
+        },
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        }
+      ],
+      "arcana": [
+        "Saint",
+        "Harmony",
+        "Tribute"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "heal",
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Erin",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/joVNQWhw.png",
+      "counters": [
+        "Ying",
+        "Han Xin",
+        "Lam"
+      ],
+      "counteredBy": [
+        "Dun"
+      ],
+      "build": [
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        },
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Omen",
+        "Reincarnation",
+        "Hunt"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "heal",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Fang",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/6dGNjKTe.png",
+      "counters": [
+        "Mai Shiranui",
+        "Nakoruru",
+        "Zilong"
+      ],
+      "counteredBy": [
+        "Dun"
+      ],
+      "build": [
+        {
+          "name": "Bloodweeper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1132.png"
+        },
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Cuirass of Savagery",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Fatih",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/default/6IY77h7c.png",
+      "counters": [
+        "Sakeer",
+        "Angela",
+        "Guiguzi"
+      ],
+      "counteredBy": [
+        "Hou Yi",
+        "Marco Polo",
+        "Lady Sun"
+      ],
+      "build": [
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Pure Sky",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png"
+        },
+        {
+          "name": "Dragon's Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1536.png"
+        },
+        {
+          "name": "Eye of the Phoenix",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1334.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Red Moon",
+        "Stealth"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "heal",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Feyd",
+      "roles": [
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/m8aOqFQE.png",
+      "counters": [
+        "Lapulapu",
+        "Ata",
+        "Sakeer"
+      ],
+      "counteredBy": [
+        "Hou Yi",
+        "Daji",
+        "Angela"
+      ],
+      "build": [
+        {
+          "name": "Axe of Torment",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1137.png"
+        },
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Master Sword",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1134.png"
+        },
+        {
+          "name": "Doomsday",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Red Moon",
+        "Stealth"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "heal",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Florentino",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/skJXGWLF.png",
+      "counters": [
+        "Data unavailable"
+      ],
+      "counteredBy": [
+        "Data unavailable"
+      ],
+      "build": [
+        {
+          "name": "Boots of Fortitude",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1421.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        },
+        {
+          "name": "Spikemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1327.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Compassion"
+      ],
+      "spells": [
+        "Intimidate"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Flowborn (Mage)",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/66xErXNs.jpeg",
+      "counters": [
+        "Athena",
+        "Zilong",
+        "Pei"
+      ],
+      "counteredBy": [
+        "Li Xin",
+        "Kaizer",
+        "Dun"
+      ],
+      "build": [
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        },
+        {
+          "name": "Venomous Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/12211.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Sage's Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png"
+        },
+        {
+          "name": "Augur's Word",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1237.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Harmony",
+        "Hunt"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Flowborn (Marksman)",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/WuG07My1.jpeg",
+      "counters": [
+        "Liu Bei",
+        "Athena",
+        "Zilong"
+      ],
+      "counteredBy": [
+        "Kaizer",
+        "Dun",
+        "Arthur"
+      ],
+      "build": [
+        {
+          "name": "Doomsday",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Eternity Blade",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png"
+        },
+        {
+          "name": "Shadow Ripper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1136.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Flowborn (Tank)",
+      "roles": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/jbrX5mQc.jpeg",
+      "counters": [
+        "Meng Ya",
+        "Luara",
+        "Garo"
+      ],
+      "counteredBy": [
+        "Wukong",
+        "Musashi",
+        "Ying"
+      ],
+      "build": [
+        {
+          "name": "Frostscar's Embrace",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/13310.png"
+        },
+        {
+          "name": "Spikemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1327.png"
+        },
+        {
+          "name": "Longnight Guardian",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1347.png"
+        },
+        {
+          "name": "Cuirass of Savagery",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Mutation",
+        "Harmony"
+      ],
+      "spells": [
+        "Execute"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Fuzi",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/UhQkVUBi.png",
+      "counters": [
+        "Milady",
+        "Luna",
+        "Mai Shiranui"
+      ],
+      "counteredBy": [
+        "Charlotte",
+        "Hou Yi",
+        "Marco Polo"
+      ],
+      "build": [
+        {
+          "name": "Boots of Dexterity",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1425.png"
+        },
+        {
+          "name": "Sparkforged Dagger",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1135.png"
+        },
+        {
+          "name": "Dragon's Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1536.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Pure Sky",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Red Moon",
+        "Hunt"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Gan & Mo",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/ui5UKQex.png",
+      "counters": [
+        "Pei",
+        "Jing"
+      ],
+      "counteredBy": [
+        "Sun Ce",
+        "Li Xin",
+        "Kaizer"
+      ],
+      "build": [
+        {
+          "name": "Boots of the Arcane",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1424.png"
+        },
+        {
+          "name": "Holy Grail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1226.png"
+        },
+        {
+          "name": "Scepter of Reverberation",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1233.png"
+        },
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Hunt",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Gao",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/QWFCuWNn.png",
+      "counters": [
+        "Mai Shiranui",
+        "Wukong",
+        "Xuance"
+      ],
+      "counteredBy": [
+        "Li Xin",
+        "Kaizer",
+        "Dun"
+      ],
+      "build": [
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        },
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Sage's Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Omen",
+        "Nightmare",
+        "Hunt"
+      ],
+      "spells": [
+        "Frenzy"
+      ],
+      "traits": [
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Gao Changgong",
+      "roles": [
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/hwk1ad6d.png",
+      "counters": [
+        "Angela",
+        "Daji",
+        "Cai Yan"
+      ],
+      "counteredBy": [
+        "Athena",
+        "Hou Yi",
+        "Daji"
+      ],
+      "build": [
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Master Sword",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1134.png"
+        },
+        {
+          "name": "Cuirass of Savagery",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png"
+        },
+        {
+          "name": "Starbreaker",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1131.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Calamity",
+        "Hunt"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Garo",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/g0jHNDf6.png",
+      "counters": [
+        "Nakoruru",
+        "Xuance",
+        "Li Bai"
+      ],
+      "counteredBy": [
+        "Lapulapu",
+        "Bai Qi"
+      ],
+      "build": [
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Boots of Resistance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png"
+        },
+        {
+          "name": "Sunchaser",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1141.png"
+        },
+        {
+          "name": "Bloodweeper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1132.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Red Moon",
+        "Hunt",
+        "Reaver"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "heal",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Garuda",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/default/h6UHy1TN.png",
+      "counters": [
+        "Athena",
+        "Zilong",
+        "Pei"
+      ],
+      "counteredBy": [
+        "Li Xin",
+        "Kaizer",
+        "Dun"
+      ],
+      "build": [
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Holy Grail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1226.png"
+        },
+        {
+          "name": "Twilight Stream",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1727.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Enigma - Moon Goddess",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1242.png"
+        }
+      ],
+      "arcana": [
+        "Omen",
+        "Hunt",
+        "Reincarnation"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Guan Yu",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/V5e2k18Z.png",
+      "counters": [
+        "Daji",
+        "Mi Yue",
+        "Yixing"
+      ],
+      "counteredBy": [
+        "Hou Yi",
+        "Marco Polo",
+        "Lady Sun"
+      ],
+      "build": [
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Starbreaker",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1131.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Sprint"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Guiguzi",
+      "roles": [
+        "Support"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/AXjJlMvi.png",
+      "counters": [
+        "Li Xin",
+        "Mozi",
+        "Zilong"
+      ],
+      "counteredBy": [
+        "Fatih",
+        "Wukong",
+        "Musashi"
+      ],
+      "build": [
+        {
+          "name": "Crimson Shadow - Radiance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1749.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Glacial Buckler",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1336.png"
+        },
+        {
+          "name": "Longnight Guardian",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1347.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Nightmare",
+        "Harmony"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Han Xin",
+      "roles": [
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/QTcSGEgM.png",
+      "counters": [
+        "Lu Bu",
+        "Dun",
+        "Xiang Yu"
+      ],
+      "counteredBy": [
+        "Agudo",
+        "Alessio",
+        "Erin"
+      ],
+      "build": [
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Master Sword",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1134.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Doomsday",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Calamity",
+        "Mutation",
+        "Hunt"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Haya",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/iIdXNhQ5.png",
+      "counters": [
+        "Sakeer",
+        "Zilong",
+        "Milady"
+      ],
+      "counteredBy": [
+        "Li Xin",
+        "Kaizer",
+        "Dun"
+      ],
+      "build": [
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Sage's Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        }
+      ],
+      "arcana": [
+        "Saint",
+        "Reincarnation",
+        "Hunt"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Heino",
+      "roles": [
+        "Mage",
+        "Fighter"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/YO6iwLAg.jpg",
+      "counters": [
+        "Diaochan",
+        "Mulan",
+        "Wukong"
+      ],
+      "counteredBy": [
+        "Butterfly",
+        "Dharma",
+        "Lu Bu"
+      ],
+      "build": [
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Breakthrough Robe",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1244.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Augur's Word",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1237.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Omen",
+        "Hunt"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Hou Yi",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/S5isJokI.png",
+      "counters": [
+        "Cirrus",
+        "Mulan",
+        "Xuance"
+      ],
+      "counteredBy": [
+        "Agudo",
+        "Master Luban"
+      ],
+      "build": [
+        {
+          "name": "Sparkforged Dagger",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1135.png"
+        },
+        {
+          "name": "Doomsday",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Deepfrost Siege",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1128.png"
+        },
+        {
+          "name": "Sunchaser",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1141.png"
+        },
+        {
+          "name": "Haste - Sunpool",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1156.png"
+        }
+      ],
+      "arcana": [
+        "Red Moon",
+        "Hunt",
+        "Reaver"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Huang Zhong",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/LNECT7PW.png",
+      "counters": [
+        "Xuance",
+        "Mai Shiranui",
+        "Jing"
+      ],
+      "counteredBy": [
+        "Kaizer",
+        "Dun",
+        "Arthur"
+      ],
+      "build": [
+        {
+          "name": "Tempest",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1159.png"
+        },
+        {
+          "name": "Eternity Blade",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Bloodweeper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1132.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Immovable - Sky Dome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1157.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Unparalleled",
+        "Fate"
+      ],
+      "spells": [
+        "Frenzy"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Jing",
+      "roles": [
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/HVRw4cpB.png",
+      "counters": [
+        "Dharma",
+        "Ata",
+        "Lian Po"
+      ],
+      "counteredBy": [
+        "Angela",
+        "Daji",
+        "Gan & Mo"
+      ],
+      "build": [
+        {
+          "name": "Master Sword",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1134.png"
+        },
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Starbreaker",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1131.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Red Moon",
+        "Stealth"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Kaizer",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/xUdtJiLO.png",
+      "counters": [
+        "Da Qiao",
+        "Diaochan",
+        "Daji"
+      ],
+      "counteredBy": [
+        "Donghuang",
+        "Kui",
+        "Sun Bin"
+      ],
+      "build": [
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Boots of Resistance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png"
+        },
+        {
+          "name": "Axe of Torment",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1137.png"
+        },
+        {
+          "name": "Spikemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1327.png"
+        },
+        {
+          "name": "Tempest",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1159.png"
+        },
+        {
+          "name": "Master Sword",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1134.png"
+        }
+      ],
+      "arcana": [
+        "Calamity",
+        "Hunt",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Kongming",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/XDnXeq3x.png",
+      "counters": [
+        "Han Xin",
+        "Jing",
+        "Ukyo Tachibana"
+      ],
+      "counteredBy": [
+        "Allain",
+        "Biron",
+        "Wuyan"
+      ],
+      "build": [
+        {
+          "name": "Boots of the Arcane",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1424.png"
+        },
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Venomous Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/12211.png"
+        },
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Hunt",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Kui",
+      "roles": [
+        "Support",
+        "Mage"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/wRGzV266.png",
+      "counters": [
+        "Cao Cao",
+        "Kaizer",
+        "Xiang Yu"
+      ],
+      "counteredBy": [
+        "Wukong",
+        "Musashi",
+        "Ying"
+      ],
+      "build": [
+        {
+          "name": "Boots of Deftness",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1426.png"
+        },
+        {
+          "name": "Guardian - Radiance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1754.png"
+        },
+        {
+          "name": "Glacial Buckler",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1336.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Longnight Guardian",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1347.png"
+        },
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Void"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Lady Sun",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/BmY46Zgb.png",
+      "counters": [
+        "Diaochan",
+        "Nakoruru",
+        "Ying"
+      ],
+      "counteredBy": [
+        "Kaizer",
+        "Dun",
+        "Arthur"
+      ],
+      "build": [
+        {
+          "name": "Master Sword",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1134.png"
+        },
+        {
+          "name": "Eternity Blade",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Doomsday",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Calamity",
+        "Reaver",
+        "Hunt"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Lady Zhen",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/gqPEOybC.png",
+      "counters": [
+        "Cirrus",
+        "Nakoruru",
+        "Sima Yi"
+      ],
+      "counteredBy": [
+        "Charlotte",
+        "Liu Bei",
+        "Luna"
+      ],
+      "build": [
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Mask of Agony",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1235.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Harmony",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Lam",
+      "roles": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/02i6M2YK.png",
+      "counters": [
+        "Lu Bu",
+        "Wuyan",
+        "Xiang Yu"
+      ],
+      "counteredBy": [
+        "Erin",
+        "Liang",
+        "Luara"
+      ],
+      "build": [
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Cuirass of Savagery",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Starbreaker",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1131.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Hunt",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Lapulapu",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/camp/admin/default/AuWJ7G0J.png",
+      "counters": [
+        "Meng Ya",
+        "Luara",
+        "Garo"
+      ],
+      "counteredBy": [
+        "Wukong",
+        "Musashi",
+        "Ying"
+      ],
+      "build": [
+        {
+          "name": "Longnight Guardian",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1347.png"
+        },
+        {
+          "name": "Crimson Shadow - Redemption",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1746.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Amble - Winter",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1351.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Void"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Li Bai",
+      "roles": [
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/k3w1wjDA.png",
+      "counters": [
+        "Dun",
+        "Lian Po",
+        "Liu Shan"
+      ],
+      "counteredBy": [
+        "Garo",
+        "Mozi",
+        "Shi"
+      ],
+      "build": [
+        {
+          "name": "Axe of Torment",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1137.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Shadow Ripper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1136.png"
+        },
+        {
+          "name": "Master Sword",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1134.png"
+        },
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Red Moon",
+        "Hunt"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Li Xin",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/mWSBbpVr.png",
+      "counters": [
+        "Da Qiao",
+        "Liang"
+      ],
+      "counteredBy": [
+        "Cai Yan",
+        "Da Qiao",
+        "Guiguzi"
+      ],
+      "build": [
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        },
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Pure Sky",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png"
+        },
+        {
+          "name": "Spikemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1327.png"
+        }
+      ],
+      "arcana": [
+        "Red Moon",
+        "Reaver",
+        "Hunt"
+      ],
+      "spells": [
+        "Teleport"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Lian Po",
+      "roles": [
+        "Tank"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/csLOp1dL.png",
+      "counters": [
+        "Marco Polo"
+      ],
+      "counteredBy": [
+        "Jing",
+        "Li Bai",
+        "Ukyo Tachibana"
+      ],
+      "build": [
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        },
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Glacial Buckler",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1336.png"
+        },
+        {
+          "name": "Spikemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1327.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Meditation"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Liang",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/cNugkXGO.png",
+      "counters": [
+        "Han Xin",
+        "Lam",
+        "Mulan"
+      ],
+      "counteredBy": [
+        "Li Xin",
+        "Mayene",
+        "Mulan"
+      ],
+      "build": [
+        {
+          "name": "Venomous Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/12211.png"
+        },
+        {
+          "name": "Mask of Agony",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1235.png"
+        },
+        {
+          "name": "Sage's Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png"
+        },
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Hunt",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Liu Bang",
+      "roles": [
+        "Tank",
+        "Mage"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/bVHGeH45.png",
+      "counters": [
+        "Marco Polo",
+        "Meng Ya",
+        "Shouyue"
+      ],
+      "counteredBy": [
+        "Wukong",
+        "Musashi",
+        "Ying"
+      ],
+      "build": [
+        {
+          "name": "Boots of Tranquility",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1423.png"
+        },
+        {
+          "name": "Crimson Shadow - Redemption",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1746.png"
+        },
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Blazing Cape",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1331.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Void"
+      ],
+      "spells": [
+        "Execute"
+      ],
+      "traits": [
+        "cc"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Liu Bei",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/argPlTxR.png",
+      "counters": [
+        "Lady Zhen",
+        "Nuwa",
+        "Xiao Qiao"
+      ],
+      "counteredBy": [
+        "Dyadia"
+      ],
+      "build": [
+        {
+          "name": "Starbreaker",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1131.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Eternity Blade",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png"
+        },
+        {
+          "name": "Dawnlight",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1353.png"
+        },
+        {
+          "name": "Ravage - Phantom",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1350.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        }
+      ],
+      "arcana": [
+        "Conflict",
+        "Hunt",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Liu Shan",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/i8WMjP6d.png",
+      "counters": [
+        "Arthur",
+        "Augran",
+        "Biron"
+      ],
+      "counteredBy": [
+        "Li Bai"
+      ],
+      "build": [
+        {
+          "name": "Crimson Shadow - Radiance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1749.png"
+        },
+        {
+          "name": "Blazing Cape",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1331.png"
+        },
+        {
+          "name": "Axe of Torment",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1137.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        },
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Longnight Guardian",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1347.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Hunt",
+        "Void"
+      ],
+      "spells": [
+        "Execute"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Lorion",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/UDiFFfId.png",
+      "counters": [
+        "Data unavailable"
+      ],
+      "counteredBy": [
+        "Data unavailable"
+      ],
+      "build": [
+        {
+          "name": "Frozen Breath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1234.png"
+        },
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Twilight Stream",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1727.png"
+        },
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Hunt",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Lu Bu",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/dXLF2kE7.png",
+      "counters": [
+        "Heino",
+        "Daji",
+        "Luna"
+      ],
+      "counteredBy": [
+        "Han Xin",
+        "Lam",
+        "Pei"
+      ],
+      "build": [
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Demonsbane",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1125.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Immovable - Sky Dome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1157.png"
+        }
+      ],
+      "arcana": [
+        "Inheritance",
+        "Hunt",
+        "Void"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "heal",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Luara",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/znRnu3kt.png",
+      "counters": [
+        "Diaochan",
+        "Mulan",
+        "Lam"
+      ],
+      "counteredBy": [
+        "Lapulapu",
+        "Ata"
+      ],
+      "build": [
+        {
+          "name": "Sparkforged Dagger",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1135.png"
+        },
+        {
+          "name": "Bloodweeper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1132.png"
+        },
+        {
+          "name": "Eternity Blade",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Calamity",
+        "Reaver",
+        "Hunt"
+      ],
+      "spells": [
+        "Frenzy"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Luban No.7",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/0VBMiUN5.png",
+      "counters": [
+        "Ying",
+        "Ukyo Tachibana",
+        "Lam"
+      ],
+      "counteredBy": [
+        "Lian Po"
+      ],
+      "build": [
+        {
+          "name": "Mortal Punisher",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11210.png"
+        },
+        {
+          "name": "Eternity Blade",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1133.png"
+        },
+        {
+          "name": "Boots of Dexterity",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1425.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Longnight Guardian",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1347.png"
+        }
+      ],
+      "arcana": [
+        "Calamity",
+        "Hunt",
+        "Reaver"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Luna",
+      "roles": [
+        "Fighter",
+        "Mage"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/hz3BqNue.png",
+      "counters": [
+        "Yuhuan",
+        "Lady Zhen",
+        "Heino"
+      ],
+      "counteredBy": [
+        "Athena",
+        "Augran",
+        "Fuzi"
+      ],
+      "build": [
+        {
+          "name": "Augur's Word",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1237.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        },
+        {
+          "name": "Runeblade",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1531.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Enigma - Moon Goddess",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1242.png"
+        }
+      ],
+      "arcana": [
+        "Red Moon",
+        "Hunt",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Mai Shiranui",
+      "roles": [
+        "Assassin",
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/4jaM0F19.png",
+      "counters": [
+        "Chano",
+        "Lapulapu",
+        "Ata"
+      ],
+      "counteredBy": [
+        "Alessio",
+        "Charlotte",
+        "Di Renjie"
+      ],
+      "build": [
+        {
+          "name": "Boots of Resistance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Staves of Sorcery",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1236.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Reincarnation",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Marco Polo",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/48d8GxkP.png",
+      "counters": [
+        "Cirrus",
+        "Mai Shiranui",
+        "Wukong"
+      ],
+      "counteredBy": [
+        "Lian Po",
+        "Liu Bang",
+        "Zhang Fei"
+      ],
+      "build": [
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Ravage - Phantom",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1350.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Amble - Winter",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1351.png"
+        }
+      ],
+      "arcana": [
+        "Red Moon",
+        "Reaver",
+        "Hunt"
+      ],
+      "spells": [
+        "Stun"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Mayene",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/FsGXCnH1.png",
+      "counters": [
+        "Nuwa",
+        "Mi Yue",
+        "Liang"
+      ],
+      "counteredBy": [
+        "Yaria"
+      ],
+      "build": [
+        {
+          "name": "Starbreaker",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1131.png"
+        },
+        {
+          "name": "Pure Sky",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Immovable - Sky Dome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1157.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Meng Ya",
+      "roles": [
+        "Marksman"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/vhBTA9jh.png",
+      "counters": [
+        "Mai Shiranui",
+        "Pei",
+        "Diaochan"
+      ],
+      "counteredBy": [
+        "Liu Bang"
+      ],
+      "build": [
+        {
+          "name": "Sparkforged Dagger",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1135.png"
+        },
+        {
+          "name": "Boots of Dexterity",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1425.png"
+        },
+        {
+          "name": "Doomsday",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png"
+        },
+        {
+          "name": "Deepfrost Siege",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1128.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        }
+      ],
+      "arcana": [
+        "Calamity",
+        "Hunt",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "heal",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Menki",
+      "roles": [
+        "Fighter",
+        "Mage"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/Ym7KcrIW.png",
+      "counters": [
+        "Lady Zhen",
+        "Mai Shiranui",
+        "Xiao Qiao"
+      ],
+      "counteredBy": [
+        "Ming",
+        "Sima Yi",
+        "Zhuangzi"
+      ],
+      "build": [
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Hunt",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Mi Yue",
+      "roles": [
+        "Mage",
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/eHvcCJb0.png",
+      "counters": [
+        "Mai Shiranui",
+        "Wukong"
+      ],
+      "counteredBy": [
+        "Cao Cao",
+        "Dharma",
+        "Dian Wei"
+      ],
+      "build": [
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Blazing Cape",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1331.png"
+        },
+        {
+          "name": "Spikemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1327.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        }
+      ],
+      "arcana": [
+        "Red Moon",
+        "Avarice",
+        "Hunt"
+      ],
+      "spells": [
+        "Execute"
+      ],
+      "traits": [
+        "heal",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Milady",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/orlOit3f.png",
+      "counters": [
+        "Nakoruru",
+        "Pei",
+        "Mai Shiranui"
+      ],
+      "counteredBy": [
+        "Allain",
+        "Fuzi",
+        "Haya"
+      ],
+      "build": [
+        {
+          "name": "Venomous Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/12211.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Enigma - Moon Goddess",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1242.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Reincarnation",
+        "Tribute"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Ming",
+      "roles": [
+        "Support"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/ubeT1R84.png",
+      "counters": [
+        "Cirrus",
+        "Menki",
+        "Wuyan"
+      ],
+      "counteredBy": [
+        "Wukong",
+        "Musashi",
+        "Ying"
+      ],
+      "build": [
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Sage's Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png"
+        },
+        {
+          "name": "Eye of the Phoenix",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1334.png"
+        },
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        }
+      ],
+      "arcana": [
+        "Saint",
+        "Fate",
+        "Harmony"
+      ],
+      "spells": [
+        "Heal"
+      ],
+      "traits": [
+        "heal",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Mozi",
+      "roles": [
+        "Mage",
+        "Fighter"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/Za4OlJ6t.png",
+      "counters": [
+        "Cirrus",
+        "Lam",
+        "Li Bai"
+      ],
+      "counteredBy": [
+        "Dolia",
+        "Guiguzi",
+        "Nezha"
+      ],
+      "build": [
+        {
+          "name": "Dawnlight",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1353.png"
+        },
+        {
+          "name": "Holy Grail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1226.png"
+        },
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Longnight Guardian",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1347.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Hunt",
+        "Void"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Mulan",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/p4dfuWXS.png",
+      "counters": [
+        "Liang",
+        "Mi Yue",
+        "Nuwa"
+      ],
+      "counteredBy": [
+        "Diaochan",
+        "Heino",
+        "Hou Yi"
+      ],
+      "build": [
+        {
+          "name": "Bloodweeper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1132.png"
+        },
+        {
+          "name": "Pure Sky",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Cuirass of Savagery",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Longevity"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Musashi",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/jgvSlz3u.png",
+      "counters": [
+        "Diaochan",
+        "Luna",
+        "Shangguan"
+      ],
+      "counteredBy": [
+        "Dyadia",
+        "Sun Bin"
+      ],
+      "build": [
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        },
+        {
+          "name": "Frostscar's Embrace",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/13310.png"
+        },
+        {
+          "name": "Boots of Resistance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Nakoruru",
+      "roles": [
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/H9WAmWdN.png",
+      "counters": [
+        "Wukong",
+        "Athena",
+        "Xiang Yu"
+      ],
+      "counteredBy": [
+        "Diaochan",
+        "Fang",
+        "Garo"
+      ],
+      "build": [
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Glacial Buckler",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1336.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Starbreaker",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1131.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Reaver"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Nezha",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/WDh84DWg.png",
+      "counters": [
+        "Mai Shiranui",
+        "Mozi",
+        "Nuwa"
+      ],
+      "counteredBy": [
+        "Augran",
+        "Wukong",
+        "Musashi"
+      ],
+      "build": [
+        {
+          "name": "Dragon's Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1536.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Frostscar's Embrace",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/13310.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Immovable - Sky Dome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1157.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Nuwa",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/E39kxNsD.png",
+      "counters": [
+        "Mulan",
+        "Nakoruru",
+        "Pei"
+      ],
+      "counteredBy": [
+        "Liu Bei",
+        "Mayene",
+        "Mulan"
+      ],
+      "build": [
+        {
+          "name": "Sage's Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png"
+        },
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Enigma - Moon Goddess",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1242.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Hunt",
+        "Tribute"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Pei",
+      "roles": [
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/XlRczGYM.png",
+      "counters": [
+        "Arthur",
+        "Lu Bu",
+        "Wuyan"
+      ],
+      "counteredBy": [
+        "Gan & Mo",
+        "Meng Ya",
+        "Milady"
+      ],
+      "build": [
+        {
+          "name": "Frostscar's Embrace",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/13310.png"
+        },
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Pure Sky",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Conflict",
+        "Hunt",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Sakeer",
+      "roles": [
+        "Support",
+        "Mage"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/ionwVFtV.png",
+      "counters": [
+        "Ying",
+        "Luna"
+      ],
+      "counteredBy": [
+        "Haya"
+      ],
+      "build": [
+        {
+          "name": "Crimson Shadow - Starspring",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1747.png"
+        },
+        {
+          "name": "Holy Grail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1226.png"
+        },
+        {
+          "name": "Boots of Resistance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png"
+        },
+        {
+          "name": "Eye of the Phoenix",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1334.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Compassion"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "heal",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Shangguan",
+      "roles": [
+        "Mage",
+        "Assassin"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/zyA68GFr.png",
+      "counters": [
+        "Diaochan",
+        "Mulan",
+        "Sima Yi"
+      ],
+      "counteredBy": [
+        "Augran",
+        "Biron",
+        "Musashi"
+      ],
+      "build": [
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Venomous Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/12211.png"
+        },
+        {
+          "name": "Boots of Resistance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png"
+        },
+        {
+          "name": "Twilight Stream",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1727.png"
+        },
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Hunt",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Shi",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/MjBadKpJ.png",
+      "counters": [
+        "Li Bai",
+        "Wukong",
+        "Ukyo Tachibana"
+      ],
+      "counteredBy": [
+        "Athena"
+      ],
+      "build": [
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Void"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Shouyue",
+      "roles": [
+        "Marksman",
+        "Assassin"
+      ],
+      "lane": "Farm Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/4bUKKH66.png",
+      "counters": [
+        "Diaochan",
+        "Nakoruru",
+        "Ying"
+      ],
+      "counteredBy": [
+        "Liu Bang"
+      ],
+      "build": [
+        {
+          "name": "Shadow Ripper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1136.png"
+        },
+        {
+          "name": "Daybreaker's Virtue",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1155.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Sunchaser",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1141.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Red Moon",
+        "Reaver",
+        "Hunt"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Sima Yi",
+      "roles": [
+        "Assassin",
+        "Mage"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/sU3BsR6P.png",
+      "counters": [
+        "Lu Bu",
+        "Wuyan",
+        "Menki"
+      ],
+      "counteredBy": [
+        "Alessio",
+        "Arli",
+        "Lady Zhen"
+      ],
+      "build": [
+        {
+          "name": "Boots of the Arcane",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1424.png"
+        },
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Staves of Sorcery",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1236.png"
+        },
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Hunt",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Execute"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Sun Bin",
+      "roles": [
+        "Support",
+        "Mage"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/1zkBQ1l1.png",
+      "counters": [
+        "Kaizer",
+        "Musashi"
+      ],
+      "counteredBy": [
+        "Wukong",
+        "Musashi",
+        "Ying"
+      ],
+      "build": [
+        {
+          "name": "Dawnlight",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1353.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Venomous Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/12211.png"
+        },
+        {
+          "name": "Frozen Breath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1234.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Enigma - Moon Goddess",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1242.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Void"
+      ],
+      "spells": [
+        "Heal"
+      ],
+      "traits": [
+        "heal",
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Sun Ce",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/Te1nmDGP.png",
+      "counters": [
+        "Liang",
+        "Gan & Mo",
+        "Mi Yue"
+      ],
+      "counteredBy": [
+        "Wukong",
+        "Musashi",
+        "Ying"
+      ],
+      "build": [
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Pure Sky",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png"
+        },
+        {
+          "name": "Dragon's Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1536.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Meditation"
+      ],
+      "spells": [
+        "Stun"
+      ],
+      "traits": [
+        "heal",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Ukyo Tachibana",
+      "roles": [
+        "Assassin",
+        "Fighter"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/8e9WRFgL.png",
+      "counters": [
+        "Arthur",
+        "Lian Po",
+        "Wuyan"
+      ],
+      "counteredBy": [
+        "Di Renjie",
+        "Shi",
+        "Kongming"
+      ],
+      "build": [
+        {
+          "name": "Starbreaker",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1131.png"
+        },
+        {
+          "name": "Demonsbane",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1125.png"
+        },
+        {
+          "name": "Pure Sky",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png"
+        },
+        {
+          "name": "Eye of the Phoenix",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1334.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "heal",
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Umbrosa",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/camp/admin/hero/head_128-128/ioDVAbAf.jpg",
+      "counters": [
+        "Sakeer",
+        "Angela",
+        "Guiguzi"
+      ],
+      "counteredBy": [
+        "Hou Yi",
+        "Marco Polo",
+        "Lady Sun"
+      ],
+      "build": [
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Spikemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1327.png"
+        },
+        {
+          "name": "Deepfrost Siege",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1128.png"
+        },
+        {
+          "name": "Mortal Punisher",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11210.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Red Moon",
+        "Stealth"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Wang Zhaojun",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/lhZtGJlg.png",
+      "counters": [
+        "Athena",
+        "Zilong",
+        "Pei"
+      ],
+      "counteredBy": [
+        "Dharma",
+        "Li Xin",
+        "Kaizer"
+      ],
+      "build": [
+        {
+          "name": "Frozen Breath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1234.png"
+        },
+        {
+          "name": "Mask of Agony",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1235.png"
+        },
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Sage's Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Hunt",
+        "Tribute"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Wukong",
+      "roles": [
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/Go3mMeu4.png",
+      "counters": [
+        "Dun",
+        "Lian Po",
+        "Xiang Yu"
+      ],
+      "counteredBy": [
+        "Agudo",
+        "Gao",
+        "Heino"
+      ],
+      "build": [
+        {
+          "name": "Shadow Ripper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1136.png"
+        },
+        {
+          "name": "Starbreaker",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1131.png"
+        },
+        {
+          "name": "Bloodweeper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1132.png"
+        },
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Unparalleled",
+        "Reaver",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Wuyan",
+      "roles": [
+        "Fighter",
+        "Tank"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/D1f9UN1O.png",
+      "counters": [
+        "Kongming",
+        "Lady Zhen",
+        "Liang"
+      ],
+      "counteredBy": [
+        "Lam",
+        "Ming",
+        "Pei"
+      ],
+      "build": [
+        {
+          "name": "Dawnlight",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1353.png"
+        },
+        {
+          "name": "Blazing Cape",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1331.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Starbreaker",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1131.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        }
+      ],
+      "arcana": [
+        "Red Moon",
+        "Fate",
+        "Hunt"
+      ],
+      "spells": [
+        "Heal"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Xiang Yu",
+      "roles": [
+        "Tank",
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/FLyy9J46.png",
+      "counters": [
+        "Dharma",
+        "Arthur"
+      ],
+      "counteredBy": [
+        "Han Xin",
+        "Kui",
+        "Lam"
+      ],
+      "build": [
+        {
+          "name": "Frostscar's Embrace",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/13310.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        },
+        {
+          "name": "Eye of the Phoenix",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1334.png"
+        },
+        {
+          "name": "Cuirass of Savagery",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Ravage - Phantom",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1350.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Hunt"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Xiao Qiao",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/paTVVlNq.png",
+      "counters": [
+        "Ukyo Tachibana",
+        "Han Xin"
+      ],
+      "counteredBy": [
+        "Liu Bei",
+        "Menki"
+      ],
+      "build": [
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Void Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1231.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        },
+        {
+          "name": "Sage's Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Ardent Dominion",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1227.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Hunt",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Xuance",
+      "roles": [
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/keW8Hfo0.png",
+      "counters": [
+        "Lapulapu",
+        "Ata",
+        "Sakeer"
+      ],
+      "counteredBy": [
+        "Daji",
+        "Diaochan",
+        "Gao"
+      ],
+      "build": [
+        {
+          "name": "Rapacious Bite",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1533.png"
+        },
+        {
+          "name": "Master Sword",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1134.png"
+        },
+        {
+          "name": "Bloodweeper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1132.png"
+        },
+        {
+          "name": "Shadow Ripper",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1136.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Immovable - Sky Dome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1157.png"
+        }
+      ],
+      "arcana": [
+        "Red Moon",
+        "Reaver",
+        "Hunt"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Yang Jian",
+      "roles": [
+        "Fighter"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/LntokS4z.png",
+      "counters": [
+        "Diaochan",
+        "Luna",
+        "Dr Bian"
+      ],
+      "counteredBy": [
+        "Hou Yi",
+        "Marco Polo",
+        "Lady Sun"
+      ],
+      "build": [
+        {
+          "name": "Boots of Tranquility",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1423.png"
+        },
+        {
+          "name": "Blazing Cape",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1331.png"
+        },
+        {
+          "name": "Axe of Torment",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1137.png"
+        },
+        {
+          "name": "Glacial Buckler",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1336.png"
+        },
+        {
+          "name": "Dragon's Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1536.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Red Moon",
+        "Hunt"
+      ],
+      "spells": [
+        "Execute"
+      ],
+      "traits": [
+        "heal",
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Yango",
+      "roles": [
+        "Assassin"
+      ],
+      "lane": "Clash Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/en5o11rK.png",
+      "counters": [
+        "Lapulapu",
+        "Ata",
+        "Sakeer"
+      ],
+      "counteredBy": [
+        "Hou Yi",
+        "Daji",
+        "Angela"
+      ],
+      "build": [
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Starbreaker",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1131.png"
+        },
+        {
+          "name": "Demonsbane",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1125.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Pure Sky",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/11311.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Yao",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/xw0HrvxD.png",
+      "counters": [
+        "Angela",
+        "Mi Yue",
+        "Ziya"
+      ],
+      "counteredBy": [
+        "Hou Yi",
+        "Daji",
+        "Angela"
+      ],
+      "build": [
+        {
+          "name": "Frostscar's Embrace",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/13310.png"
+        },
+        {
+          "name": "Overlord's Might",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1138.png"
+        },
+        {
+          "name": "Demonsbane",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1125.png"
+        },
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Yaria",
+      "roles": [
+        "Support"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/uHnzeJbu.png",
+      "counters": [
+        "Dian Wei",
+        "Dun",
+        "Mayene"
+      ],
+      "counteredBy": [
+        "Dolia",
+        "Wukong",
+        "Musashi"
+      ],
+      "build": [
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Venomous Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/12211.png"
+        },
+        {
+          "name": "Breakthrough Robe",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1244.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Saint",
+        "Harmony"
+      ],
+      "spells": [
+        "Heal"
+      ],
+      "traits": [
+        "heal",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Ying",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/diRuUQDV.png",
+      "counters": [
+        "Kongming",
+        "Liang",
+        "Yuhuan"
+      ],
+      "counteredBy": [
+        "Di Renjie",
+        "Erin",
+        "Lady Sun"
+      ],
+      "build": [
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Boots of Resistance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Cuirass of Savagery",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1338.png"
+        },
+        {
+          "name": "Doomsday",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1126.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Yixing",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/RLA5jvBk.png",
+      "counters": [
+        "Augran",
+        "Cirrus",
+        "Lam"
+      ],
+      "counteredBy": [
+        "Allain",
+        "Dharma",
+        "Dian Wei"
+      ],
+      "build": [
+        {
+          "name": "Frozen Breath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1234.png"
+        },
+        {
+          "name": "Venomous Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/12211.png"
+        },
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Augur's Word",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1237.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Enigma - Moon Goddess",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1242.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Hunt",
+        "Compassion"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Yuhuan",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/r97AVgaV.png",
+      "counters": [
+        "Mai Shiranui",
+        "Nakoruru",
+        "Wukong"
+      ],
+      "counteredBy": [
+        "Luna",
+        "Ying"
+      ],
+      "build": [
+        {
+          "name": "Twilight Stream",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1727.png"
+        },
+        {
+          "name": "Boots of Resistance",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1422.png"
+        },
+        {
+          "name": "Sage's Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png"
+        },
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Hunt",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "heal",
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Zhang Fei",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/w0QS7N1L.png",
+      "counters": [
+        "Arli",
+        "Consort Yu",
+        "Marco Polo"
+      ],
+      "counteredBy": [
+        "Diaochan",
+        "Wukong",
+        "Musashi"
+      ],
+      "build": [
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        },
+        {
+          "name": "Glacial Buckler",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1336.png"
+        },
+        {
+          "name": "Dawnlight",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1353.png"
+        },
+        {
+          "name": "Spikemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1327.png"
+        },
+        {
+          "name": "Eye of the Phoenix",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1334.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Void"
+      ],
+      "spells": [
+        "Heal"
+      ],
+      "traits": [
+        "cc",
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Zhou Yu",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/kqkpA18w.png",
+      "counters": [
+        "Cirrus",
+        "Nakoruru",
+        "Xuance"
+      ],
+      "counteredBy": [
+        "Augran",
+        "Cao Cao",
+        "Dian Wei"
+      ],
+      "build": [
+        {
+          "name": "Venomous Staff",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/12211.png"
+        },
+        {
+          "name": "Mask of Agony",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1235.png"
+        },
+        {
+          "name": "Frozen Breath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1234.png"
+        },
+        {
+          "name": "Twilight Stream",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1727.png"
+        },
+        {
+          "name": "Sage's Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1238.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Hunt",
+        "Mind's Eye"
+      ],
+      "spells": [
+        "Flash"
+      ],
+      "traits": [
+        "cc",
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Zhuangzi",
+      "roles": [
+        "Support",
+        "Tank"
+      ],
+      "lane": "Roaming",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/UZC54GWu.png",
+      "counters": [
+        "Cirrus",
+        "Dian Wei",
+        "Menki"
+      ],
+      "counteredBy": [
+        "Allain",
+        "Wukong",
+        "Musashi"
+      ],
+      "build": [
+        {
+          "name": "Boots of Fortitude",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1421.png"
+        },
+        {
+          "name": "Guardian - Redemption",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1751.png"
+        },
+        {
+          "name": "Dawnlight",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1353.png"
+        },
+        {
+          "name": "Succubus Cloak",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1335.png"
+        },
+        {
+          "name": "Ominous Premonition",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1333.png"
+        },
+        {
+          "name": "Overlord's Platemail",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1332.png"
+        }
+      ],
+      "arcana": [
+        "Fate",
+        "Harmony",
+        "Void"
+      ],
+      "spells": [
+        "Heal"
+      ],
+      "traits": [],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Zilong",
+      "roles": [
+        "Fighter",
+        "Assassin"
+      ],
+      "lane": "Jungling",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/9xqbsAQC.png",
+      "counters": [
+        "Lapulapu",
+        "Ata",
+        "Sakeer"
+      ],
+      "counteredBy": [
+        "Guiguzi",
+        "Ziya",
+        "Fang"
+      ],
+      "build": [
+        {
+          "name": "Blood Rage",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1328.png"
+        },
+        {
+          "name": "Frigid Charge",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1341.png"
+        },
+        {
+          "name": "Amble - Winter",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1351.png"
+        },
+        {
+          "name": "Ravage - Phantom",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1350.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        },
+        {
+          "name": "Destiny",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1127.png"
+        }
+      ],
+      "arcana": [
+        "Mutation",
+        "Stealth",
+        "Eagle Eye"
+      ],
+      "spells": [
+        "Smite"
+      ],
+      "traits": [
+        "physical"
+      ],
+      "dataUpdated": "2026-09-21"
+    },
+    {
+      "name": "Ziya",
+      "roles": [
+        "Mage"
+      ],
+      "lane": "Mid Lane",
+      "avatar": "https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/km2HzQ71.png",
+      "counters": [
+        "Diaochan",
+        "Ying",
+        "Zilong"
+      ],
+      "counteredBy": [
+        "Biron",
+        "Charlotte",
+        "Yao"
+      ],
+      "build": [
+        {
+          "name": "Insatiable Tome",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1240.png"
+        },
+        {
+          "name": "Frozen Breath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1234.png"
+        },
+        {
+          "name": "Savant's Wrath",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1232.png"
+        },
+        {
+          "name": "Mask of Agony",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1235.png"
+        },
+        {
+          "name": "Splendor",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1239.png"
+        },
+        {
+          "name": "Sage's Sanctuary",
+          "icon": "https://camp.honorofkings.com/social/game/BattleEquip/1337.png"
+        }
+      ],
+      "arcana": [
+        "Nightmare",
+        "Harmony",
+        "Meditation"
+      ],
+      "spells": [
+        "Teleport"
+      ],
+      "traits": [
+        "magic"
+      ],
+      "dataUpdated": "2026-09-21"
+    }
+  ]
+}

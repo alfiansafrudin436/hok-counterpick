@@ -1,0 +1,378 @@
+# Daftar hero Honor of Kings (server global) — sumber resmi: HOK Camp, versi S16 (5 November 2026),
+# halaman Hero Encyclopedia → Hero Selection (https://camp.honorofkings.com).
+#
+# name   nama hero persis seperti di HOK Camp
+# role   role utama (bagian tempat hero itu muncul di HOK Camp)
+# image  URL potret dari CDN resmi HOK Camp; opsional
+#
+# Counter, build, arcana, dan spell ada di content/hokmeta.json (lihat scripts/sync-hokmeta.mjs).
+
+# ── Fighter ──
+- name: Arthur
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/YTBrsBIg.png
+- name: Yao
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/xw0HrvxD.png
+- name: Zilong
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/9xqbsAQC.png
+- name: Wuyan
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/D1f9UN1O.png
+- name: Lu Bu
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/dXLF2kE7.png
+- name: Fatih
+  role: Fighter
+  image: https://camp.honorofkings.com/camp/admin/default/6IY77h7c.png
+- name: Dian Wei
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/y6IMFSlI.png
+- name: Musashi
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/jgvSlz3u.png
+- name: Liu Bei
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/argPlTxR.png
+- name: Umbrosa
+  role: Fighter
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/ioDVAbAf.jpg
+- name: Dharma
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/9u997w0x.png
+- name: Augran
+  role: Fighter
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/ue6KY05b.png
+- name: Fuzi
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/UhQkVUBi.png
+- name: Guan Yu
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/V5e2k18Z.png
+- name: Luna
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/hz3BqNue.png
+- name: Mulan
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/p4dfuWXS.png
+- name: Yang Jian
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/LntokS4z.png
+- name: Allain
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/Ek9OHopQ.png
+- name: Nezha
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/WDh84DWg.png
+- name: Biron
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/F3A0JkoT.png
+- name: Athena
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/BEh6QC3Q.png
+- name: Kaizer
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/xUdtJiLO.png
+- name: Menki
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/Ym7KcrIW.png
+- name: Li Xin
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/mWSBbpVr.png
+- name: Sun Ce
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/Te1nmDGP.png
+- name: Butterfly
+  role: Fighter
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/FPq2P4ew.png
+- name: Charlotte
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/iIwO0Kwk.png
+- name: Devara
+  role: Fighter
+  image: https://camp.honorofkings.com/camp/admin/default/MagzAk8i.png
+- name: Ying
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/diRuUQDV.png
+- name: Chicha
+  role: Fighter
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/lkU98jAV.png
+- name: Mayene
+  role: Fighter
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/FsGXCnH1.png
+- name: Florentino
+  role: Fighter
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/skJXGWLF.png
+
+# ── Marksman ──
+- name: Luban No.7
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/0VBMiUN5.png
+- name: Lady Sun
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/BmY46Zgb.png
+- name: Hou Yi
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/S5isJokI.png
+- name: Marco Polo
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/48d8GxkP.png
+- name: Di Renjie
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/XTSDAJkR.png
+- name: Consort Yu
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/Ku5RzFmQ.png
+- name: Flowborn (Marksman)
+  role: Marksman
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/WuG07My1.jpeg
+- name: Agudo
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/TYN9rh81.png
+- name: Erin
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/joVNQWhw.png
+- name: Fang
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/6dGNjKTe.png
+- name: Chano
+  role: Marksman
+  image: https://camp.honorofkings.com/camp/admin/default/sJURXorM.png
+- name: Huang Zhong
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/LNECT7PW.png
+- name: Shouyue
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/4bUKKH66.png
+- name: Arli
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/hF8AFVqh.png
+- name: Garo
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/g0jHNDf6.png
+- name: Meng Ya
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/vhBTA9jh.png
+- name: Alessio
+  role: Marksman
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/nnafEHV0.png
+- name: Luara
+  role: Marksman
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/znRnu3kt.png
+- name: "Ao'yin"
+  role: Marksman
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/OzH2TSZN.jpg
+
+# ── Tank ──
+- name: Lian Po
+  role: Tank
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/csLOp1dL.png
+- name: Flowborn (Tank)
+  role: Tank
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/jbrX5mQc.jpeg
+- name: Bai Qi
+  role: Tank
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/uY7c38Tt.png
+- name: Dun
+  role: Tank
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/23rrkYYy.png
+- name: Xiang Yu
+  role: Tank
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/FLyy9J46.png
+- name: Liu Bang
+  role: Tank
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/bVHGeH45.png
+- name: Ata
+  role: Tank
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/eafz1moy.png
+
+# ── Mage ──
+- name: Xiao Qiao
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/paTVVlNq.png
+- name: Mozi
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/Za4OlJ6t.png
+- name: Zhou Yu
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/kqkpA18w.png
+- name: Daji
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/dYxuS6IA.png
+- name: Gao
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/QWFCuWNn.png
+- name: Garuda
+  role: Mage
+  image: https://camp.honorofkings.com/camp/admin/default/h6UHy1TN.png
+- name: Dr Bian
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/YmpeG9H2.png
+- name: Mi Yue
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/eHvcCJb0.png
+- name: Lady Zhen
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/gqPEOybC.png
+- name: Wang Wei
+  role: Mage
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/9ydtLpQD.png
+- name: Ziya
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/km2HzQ71.png
+- name: Diaochan
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/qFBebEbk.png
+- name: Angela
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/wjaExUFU.png
+- name: Wang Zhaojun
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/lhZtGJlg.png
+- name: Liang
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/cNugkXGO.png
+- name: Yuhuan
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/r97AVgaV.png
+- name: Nuwa
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/E39kxNsD.png
+- name: Gan & Mo
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/ui5UKQex.png
+- name: Kongming
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/XDnXeq3x.png
+- name: Yixing
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/RLA5jvBk.png
+- name: Milady
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/orlOit3f.png
+- name: Shangguan
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/zyA68GFr.png
+- name: Haya
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/iIdXNhQ5.png
+- name: Shi
+  role: Mage
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/MjBadKpJ.png
+- name: Lorion
+  role: Mage
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/UDiFFfId.png
+- name: Heino
+  role: Mage
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/YO6iwLAg.jpg
+- name: Flowborn (Mage)
+  role: Mage
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/66xErXNs.jpeg
+
+# ── Assassin ──
+- name: Gao Changgong
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/hwk1ad6d.png
+- name: Yango
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/en5o11rK.png
+- name: Arke
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/IUMPYUy4.png
+- name: Han Xin
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/QTcSGEgM.png
+- name: Li Bai
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/k3w1wjDA.png
+- name: Sima Yi
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/sU3BsR6P.png
+- name: Nakoruru
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/H9WAmWdN.png
+- name: Mai Shiranui
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/4jaM0F19.png
+- name: Ukyo Tachibana
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/8e9WRFgL.png
+- name: Wukong
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/Go3mMeu4.png
+- name: Xuance
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/keW8Hfo0.png
+- name: Pei
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/XlRczGYM.png
+- name: Cirrus
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/bwygx1aS.png
+- name: Lam
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/02i6M2YK.png
+- name: Jing
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/HVRw4cpB.png
+- name: Feyd
+  role: Assassin
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/m8aOqFQE.png
+- name: Flowborn (Assassin)
+  role: Assassin
+
+# ── Support ──
+- name: Sun Bin
+  role: Support
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/1zkBQ1l1.png
+- name: Liu Shan
+  role: Support
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/i8WMjP6d.png
+- name: Zhuangzi
+  role: Support
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/UZC54GWu.png
+- name: Lapulapu
+  role: Support
+  image: https://camp.honorofkings.com/camp/admin/default/AuWJ7G0J.png
+- name: Zhang Fei
+  role: Support
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/w0QS7N1L.png
+- name: Kui
+  role: Support
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/wRGzV266.png
+- name: Cai Yan
+  role: Support
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/kQXkW7ab.png
+- name: Donghuang
+  role: Support
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/PRcq49iS.png
+- name: Guiguzi
+  role: Support
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/AXjJlMvi.png
+- name: Da Qiao
+  role: Support
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/IEPtzR5z.png
+- name: Annette
+  role: Support
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/49o0xBua.png
+- name: Sakeer
+  role: Support
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/ionwVFtV.png
+- name: Ming
+  role: Support
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/ubeT1R84.png
+- name: Yaria
+  role: Support
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/uHnzeJbu.png
+- name: Dunshan
+  role: Support
+  image: https://camp.honorofkings.com/social/game/src/image_hero_head_128*128/oAi4jpSd.png
+- name: Dolia
+  role: Support
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/tfvb3IJf.png
+- name: Dyadia
+  role: Support
+  image: https://camp.honorofkings.com/camp/admin/hero/head_128-128/Qdvu6qgO.png
+- name: Flowborn (Roamer)
+  role: Support

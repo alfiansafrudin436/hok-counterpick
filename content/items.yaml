@@ -1,0 +1,119 @@
+# Katalog item Honor of Kings (server global) yang dipakai untuk:
+# - menyaring build dari content/hokmeta.json (item yang tidak dikenal dibuang), dan
+# - memastikan aturan di src/lib/loadout.ts hanya menyarankan item yang ada.
+#
+# Perbarui file ini setiap ada patch yang menambah, menghapus, atau mengganti nama item.
+updatedAt: '2026-09-21'
+source: https://hokmeta.pages.dev/items/ (data Camp HOK)
+
+items:
+  - Amble - Winter
+  - Anti-magic Cloak
+  - Ardent Dominion
+  - Augur's Word
+  - Axe of Torment
+  - Belt of Might
+  - Blazing Cape
+  - Blood Clan's Grimoire
+  - Blood Rage
+  - Bloodsoul
+  - Bloodweeper
+  - Boots of Deftness
+  - Boots of Dexterity
+  - Boots of Fortitude
+  - Boots of Resistance
+  - Boots of the Arcane
+  - Boots of Tranquility
+  - Breakthrough Robe
+  - Clandestine Cape
+  - Cloth Jerkin
+  - Cloud Piercer
+  - Crimson Shadow
+  - Crimson Shadow - Radiance
+  - Crimson Shadow - Redemption
+  - Crimson Shadow - Starspring
+  - Cuirass of Savagery
+  - Cuirass of Swiftness
+  - Dagger
+  - Dawnlight
+  - Daybreaker's Virtue
+  - Deepfrost Siege
+  - Demonsbane
+  - Destiny
+  - Doomsday
+  - Dragon's Rage
+  - Enigma - Moon Goddess
+  - Eternity Blade
+  - Eye of the Phoenix
+  - Frigid Charge
+  - Frosthold Targe
+  - Frostscar's Embrace
+  - Frozen Breath
+  - Giant's Grip
+  - Glacial Buckler
+  - Golden Blade
+  - Grand Staff
+  - Guardian
+  - Guardian - Radiance
+  - Guardian - Redemption
+  - Guardian - Starspring
+  - Guerrilla Machete
+  - Haste - Sunpool
+  - Holy Grail
+  - Hunting Knife
+  - Immovable - Sky Dome
+  - Insatiable Tome
+  - Iron Sword
+  - Ironbrand
+  - Knowledge Gem
+  - Lightfoot Shoes
+  - Longnight Guardian
+  - Mask of Agony
+  - Master Sword
+  - Meteor
+  - Mirror of Radiance
+  - Mortal Punisher
+  - Mystic Page
+  - Nebulon Wood
+  - Nettle Gauntlet
+  - Ominous Premonition
+  - Overlord's Might
+  - Overlord's Platemail
+  - Patrol Axe
+  - Pearl of Origin
+  - Plume of Enchantment
+  - Primordial Crystal
+  - Protector's Cuirass
+  - Pugilist's Gauntlet
+  - Pure Sky
+  - Rapacious Bite
+  - Ravage - Phantom
+  - Relentless Blade
+  - Resilient Agate
+  - Runeblade
+  - Sage's Codex
+  - Sage's Sanctuary
+  - Sage's Tome
+  - Savant's Wrath
+  - Scepter of Reverberation
+  - Shadow Ripper
+  - Sparkforged Dagger
+  - Spell Tome
+  - Spikemail
+  - Splendor
+  - Starbreaker
+  - Staves of Sorcery
+  - Stone of All Creation
+  - Stone of Sorcery
+  - Storm Sword
+  - Succubus Cloak
+  - Sunchaser
+  - Sunglow Striker
+  - Swiftstrike Lance
+  - Tempest
+  - Thunderclap Brand
+  - Twilight Stream
+  - Twinblades of Destruction
+  - Vampiric Scythe
+  - Venomous Staff
+  - Void Staff
