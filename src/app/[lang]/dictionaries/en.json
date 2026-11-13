@@ -1,0 +1,43 @@
+{
+  "site": {
+    "tagline": "Counter hero recommendations",
+    "description": "Pick the enemy heroes, then see which Honor of Kings heroes counter them best.",
+    "language": "Language",
+    "footer": "Hero list and portraits come from the official HOK Camp (S16, 5 November 2026). Counters, builds, arcana, and spells come from HOKMeta (hokmeta.pages.dev, S15 data as of 21 September 2026) and may differ from the latest patch. Fan project, not affiliated with TiMi Studio Group or Level Infinite."
+  },
+  "picker": {
+    "enemyTeam": "Enemy team",
+    "reset": "Reset",
+    "emptySlot": "Empty",
+    "removeEnemy": "Remove {name} from the enemy team",
+    "searchPlaceholder": "Search heroes…",
+    "searchLabel": "Search heroes",
+    "allRoles": "All",
+    "enemyRoleFilter": "Filter enemy heroes by role",
+    "noHeroFound": "No heroes found.",
+    "recommendations": "Recommended picks",
+    "recommendationRoleFilter": "Filter recommendations by role",
+    "pickEnemyFirst": "Pick at least one enemy hero to see recommendations.",
+    "noRecommendation": "No recommendations for this combination and role yet.",
+    "bestPick": "Best pick",
+    "counterScore": "Counters {count}/{total} enemies",
+    "versus": "vs {name}",
+    "caution": "Watch out:",
+    "counteredBy": "countered by {names}",
+    "loadoutToggle": "Build, arcana & spell",
+    "loadoutBuild": "Recommended build",
+    "loadoutNoBuild": "No build data for this hero yet.",
+    "loadoutAdjust": "Adjust for these enemies",
+    "loadoutNoAdjust": "No specific adjustments needed against this enemy team.",
+    "loadoutArcana": "Arcana",
+    "loadoutSpells": "Spell",
+    "loadoutNoData": "No data yet",
+    "reasonAntiHeal": "Cuts the healing and regen of {names}",
+    "reasonAntiTank": "Pierces the HP and defense of {names}",
+    "reasonMagicDefense": "Soaks magic damage from {names}",
+    "reasonPhysicalDefense": "Reflects physical damage from {names}",
+    "reasonAntiMarksman": "Slows the attacks of {names}",
+    "reasonTenacity": "Shortens CC from {names}",
+    "reasonSurviveBurst": "Survives burst from {names}"
+  }
+}
