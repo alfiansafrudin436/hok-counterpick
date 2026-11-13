@@ -2,12 +2,12 @@ import { cva, type VariantProps } from 'class-variance-authority'
 import type { LucideIcon } from 'lucide-react'
 import { cn } from '@/lib/utils'
 
-// Bingkai gradasi 1px + sudut terpotong; `tone` menentukan warna bingkai dan ikon.
-const frameVariants = cva('clip-corners min-w-0 bg-linear-to-b via-border to-border p-px', {
+// Bingkai berornamen (utilitas `frame` di globals.css); `tone` menentukan warna bingkai dan ikon.
+const frameVariants = cva('frame min-w-0 p-4 sm:p-5', {
   variants: {
     tone: {
-      gold: 'from-primary/80',
-      danger: 'from-danger/80',
+      gold: '',
+      danger: 'frame-danger',
     },
   },
   defaultVariants: {
@@ -15,17 +15,20 @@ const frameVariants = cva('clip-corners min-w-0 bg-linear-to-b via-border to-bor
   },
 })
 
-const iconVariants = cva('size-5 shrink-0', {
-  variants: {
-    tone: {
-      gold: 'text-primary',
-      danger: 'text-danger',
+const iconVariants = cva(
+  'inline-flex size-8 shrink-0 items-center justify-center rounded-full border [&_svg]:size-4',
+  {
+    variants: {
+      tone: {
+        gold: 'border-primary/60 bg-primary/10 text-primary',
+        danger: 'border-danger/60 bg-danger/10 text-danger',
+      },
+    },
+    defaultVariants: {
+      tone: 'gold',
     },
   },
-  defaultVariants: {
-    tone: 'gold',
-  },
-})
+)
 
 type PanelProps = VariantProps<typeof frameVariants> & {
   id: string
@@ -40,19 +43,19 @@ type PanelProps = VariantProps<typeof frameVariants> & {
 export const Panel = ({ id, title, icon: Icon, tone, aside, children, className }: PanelProps) => {
   return (
     <section aria-labelledby={id} className={cn(frameVariants({ tone }), className)}>
-      <div className="h-full bg-card p-4 clip-corners sm:p-5">
-        <div className="mb-4 flex min-h-11 items-center justify-between gap-3">
-          <h2
-            id={id}
-            className="flex items-center gap-2 font-display text-xl font-bold tracking-wider uppercase"
-          >
-            <Icon aria-hidden className={iconVariants({ tone })} />
-            {title}
-          </h2>
-          {aside}
-        </div>
-        {children}
+      <div className="mb-4 flex min-h-11 items-center justify-between gap-3">
+        <h2
+          id={id}
+          className="flex items-center gap-2.5 font-display text-lg font-bold tracking-[0.12em] uppercase"
+        >
+          <span aria-hidden className={iconVariants({ tone })}>
+            <Icon />
+          </span>
+          <span className="text-gold">{title}</span>
+        </h2>
+        {aside}
       </div>
+      {children}
     </section>
   )
 }

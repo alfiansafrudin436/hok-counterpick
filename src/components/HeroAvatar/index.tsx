@@ -8,13 +8,13 @@ import { cn, getInitials } from '@/lib/utils'
 import type { Hero } from '@/types'
 
 const avatarVariants = cva(
-  'inline-flex shrink-0 items-center justify-center overflow-hidden border-2 font-display font-bold',
+  'inline-flex shrink-0 items-center justify-center overflow-hidden rounded-full border-2 font-display font-bold ring-1 ring-primary/45 ring-offset-2 ring-offset-card',
   {
     variants: {
       size: {
-        sm: 'size-10 rounded-[10px] text-sm',
-        md: 'size-14 rounded-xl text-lg',
-        lg: 'size-16 rounded-[14px] text-xl',
+        sm: 'size-10 text-sm',
+        md: 'size-14 text-lg',
+        lg: 'size-16 text-xl',
       },
     },
     defaultVariants: {

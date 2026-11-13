@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from 'next'
-import { Geist, Rajdhani } from 'next/font/google'
+import { Cinzel, Geist } from 'next/font/google'
 import { notFound } from 'next/navigation'
 import { Footer, Header } from '@/components'
 import { hasLocale, LOCALES } from '@/lib/i18n'
@@ -13,9 +13,9 @@ const geistSans = Geist({
   subsets: ['latin'],
 })
 
-// Font judul bergaya esports.
-const rajdhani = Rajdhani({
-  variable: '--font-rajdhani',
+// Font judul berkesan klasik dan megah.
+const cinzel = Cinzel({
+  variable: '--font-cinzel',
   subsets: ['latin'],
   weight: ['600', '700'],
 })
@@ -43,7 +43,7 @@ export const generateMetadata = async ({ params }: LayoutProps<'/[lang]'>): Prom
 }
 
 export const viewport: Viewport = {
-  themeColor: '#060a17',
+  themeColor: '#090d20',
 }
 
 const RootLayout = async ({ children, params }: LayoutProps<'/[lang]'>) => {
@@ -52,7 +52,7 @@ const RootLayout = async ({ children, params }: LayoutProps<'/[lang]'>) => {
   const { site } = await getDictionary(lang)
 
   return (
-    <html lang={lang} className={`${geistSans.variable} ${rajdhani.variable} h-full antialiased`}>
+    <html lang={lang} className={`${geistSans.variable} ${cinzel.variable} h-full antialiased`}>
       <body className="flex min-h-full flex-col">
         <Providers>
           <Header locale={lang} description={site.description} languageLabel={site.language} />

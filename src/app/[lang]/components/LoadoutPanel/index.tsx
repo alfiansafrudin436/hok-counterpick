@@ -19,7 +19,7 @@ const ItemIcon = ({ item }: ItemIconProps) => {
   return (
     <span
       aria-hidden
-      className="inline-flex size-10 shrink-0 items-center justify-center overflow-hidden rounded-lg border border-input bg-background font-display text-xs font-bold text-muted-foreground"
+      className="inline-flex size-10 shrink-0 items-center justify-center overflow-hidden rounded-lg border border-primary/40 bg-background font-display text-xs font-bold text-muted-foreground shadow-[inset_0_0_0_1px] shadow-background"
     >
       {item.icon ? (
         <Image src={item.icon} alt="" width={40} height={40} className="size-full object-cover" />
@@ -31,7 +31,7 @@ const ItemIcon = ({ item }: ItemIconProps) => {
 }
 
 const HEADING_CLASS =
-  'font-display text-[13px] font-bold tracking-wider text-muted-foreground uppercase'
+  'font-display text-[11px] font-bold tracking-[0.14em] text-primary/80 uppercase'
 
 // Bagian yang bisa dibuka di kartu rekomendasi: build, item situasional, arcana, dan spell.
 export const LoadoutPanel = ({ loadout, itemIcons, dict }: LoadoutPanelProps) => {
@@ -40,8 +40,8 @@ export const LoadoutPanel = ({ loadout, itemIcons, dict }: LoadoutPanelProps) =>
     format(dict[reason], { names: enemies.join(', ') })
 
   return (
-    <details className="group mt-3 border-t border-border/70 pt-1">
-      <summary className="flex min-h-11 cursor-pointer list-none items-center gap-1.5 font-display text-[15px] font-semibold tracking-wide text-accent uppercase [&::-webkit-details-marker]:hidden">
+    <details className="group mt-3 border-t border-primary/20 pt-1">
+      <summary className="flex min-h-11 cursor-pointer list-none items-center gap-1.5 font-display text-[13px] font-bold tracking-[0.1em] text-accent uppercase [&::-webkit-details-marker]:hidden">
         <ChevronDownIcon
           aria-hidden
           className="size-4 transition-transform group-open:rotate-180"

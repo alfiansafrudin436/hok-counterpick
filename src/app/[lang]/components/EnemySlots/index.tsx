@@ -11,7 +11,7 @@ type EnemySlotsProps = {
 }
 
 const SLOT_CLASS =
-  'clip-corners-sm relative flex min-h-[112px] min-w-0 flex-col items-center justify-center gap-1.5 px-1 py-2.5 text-center text-xs'
+  'relative flex min-h-[116px] min-w-0 flex-col items-center justify-center gap-1.5 rounded-2xl border px-1 py-2.5 text-center text-xs'
 
 // Baris pick tim lawan: lima slot, terisi dari kiri.
 export const EnemySlots = ({ enemies, onRemove, dict }: EnemySlotsProps) => {
@@ -21,8 +21,11 @@ export const EnemySlots = ({ enemies, onRemove, dict }: EnemySlotsProps) => {
         const hero = enemies[index]
         if (!hero) {
           return (
-            <div key={index} className={`${SLOT_CLASS} bg-muted/50 text-muted-foreground`}>
-              <span className="font-display text-3xl leading-none font-bold text-input">
+            <div
+              key={index}
+              className={`${SLOT_CLASS} border-dashed border-primary/20 bg-muted/40 text-muted-foreground`}
+            >
+              <span className="inline-flex size-12 items-center justify-center rounded-full border border-dashed border-primary/30 font-display text-xl font-bold text-primary/40">
                 {index + 1}
               </span>
               <span>{dict.emptySlot}</span>
@@ -37,9 +40,9 @@ export const EnemySlots = ({ enemies, onRemove, dict }: EnemySlotsProps) => {
             onClick={() => onRemove(hero.name)}
             aria-label={removeLabel}
             title={removeLabel}
-            className={`${SLOT_CLASS} group animate-pop cursor-pointer bg-linear-to-b from-danger/30 to-danger/5 transition-colors hover:from-danger/45`}
+            className={`${SLOT_CLASS} group animate-pop cursor-pointer border-danger/50 bg-linear-to-b from-danger/25 to-card shadow-[inset_0_0_18px] shadow-danger/20 transition-colors hover:border-danger`}
           >
-            <HeroAvatar hero={hero} size="lg" className="max-sm:size-12" />
+            <HeroAvatar hero={hero} size="lg" className="ring-danger/60 max-sm:size-12" />
             <span className="max-w-full truncate font-semibold">{hero.name}</span>
             <span
               aria-hidden

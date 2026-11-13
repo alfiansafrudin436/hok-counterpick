@@ -1,21 +1,23 @@
 @import 'tailwindcss';
 
-/* Design tokens — satu tema gelap bernuansa arena MOBA: biru malam, emas, dan cahaya biru. */
+/* Design tokens — satu tema gelap bernuansa istana malam: biru tengah malam, emas antik,
+   giok untuk elemen interaktif, dan merah tua untuk tim musuh. */
 :root {
-  --background: #060a17;
-  --foreground: #eaf0ff;
-  --card: #0d1430;
-  --muted: #151e3e;
-  --muted-foreground: #93a0c8;
-  --border: #26325c;
-  --input: #34427a;
-  --ring: #ffd978;
-  --primary: #e8b84a;
-  --primary-hover: #ffd978;
-  --primary-foreground: #1a1200;
-  --accent: #3aa8ff;
-  --success: #3ddc97;
-  --danger: #ff5a66;
+  --background: #090d20;
+  --foreground: #f2ead7;
+  --card: #111733;
+  --muted: #182044;
+  --muted-foreground: #a6abc6;
+  --border: #2a3260;
+  --input: #3a4478;
+  --ring: #f0d189;
+  --primary: #d3a64e;
+  --primary-hover: #f0d189;
+  --primary-foreground: #1d1405;
+  --gold-soft: #f5e2b0;
+  --accent: #56d0c0;
+  --success: #5fd49c;
+  --danger: #e2475a;
 
   --role-tank: #4e9bff;
   --role-fighter: #ff9248;
@@ -37,6 +39,7 @@
   --color-primary: var(--primary);
   --color-primary-hover: var(--primary-hover);
   --color-primary-foreground: var(--primary-foreground);
+  --color-gold-soft: var(--gold-soft);
   --color-accent: var(--accent);
   --color-success: var(--success);
   --color-danger: var(--danger);
@@ -49,7 +52,7 @@
   --color-role-support: var(--role-support);
 
   --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
-  --font-display: var(--font-rajdhani), var(--font-geist-sans), ui-sans-serif, sans-serif;
+  --font-display: var(--font-cinzel), Georgia, 'Times New Roman', serif;
 
   --animate-rise: rise 280ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
   --animate-pop: pop 220ms cubic-bezier(0.2, 0.8, 0.2, 1) both;
@@ -69,20 +72,86 @@
   }
 }
 
-/* Sudut terpotong ala panel draft pick. */
-@utility clip-corners {
-  clip-path: polygon(
-    14px 0,
-    100% 0,
-    100% calc(100% - 14px),
-    calc(100% - 14px) 100%,
-    0 100%,
-    0 14px
+/* Bingkai berornamen: sudut membulat, garis emas ganda, permata di tengah atas, dan kilau tipis
+   di tepi atas. Warna bingkai diatur lewat --frame-tone (lihat utilitas frame-danger). */
+@utility frame {
+  position: relative;
+  border-radius: 18px;
+  border: 1px solid color-mix(in srgb, var(--frame-tone, var(--color-primary)) 55%, transparent);
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--frame-tone, var(--color-primary)) 7%, var(--color-card)),
+    var(--color-card) 140px
   );
+  box-shadow:
+    0 0 0 3px var(--color-background),
+    0 0 0 4px color-mix(in srgb, var(--frame-tone, var(--color-primary)) 22%, transparent),
+    0 18px 40px -20px rgb(0 0 0 / 0.7);
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: -6px;
+    left: 50%;
+    width: 11px;
+    height: 11px;
+    transform: translateX(-50%) rotate(45deg);
+    border: 1px solid var(--color-gold-soft);
+    background: linear-gradient(
+      135deg,
+      var(--color-gold-soft),
+      var(--frame-tone, var(--color-primary))
+    );
+    box-shadow: 0 0 12px
+      color-mix(in srgb, var(--frame-tone, var(--color-primary)) 70%, transparent);
+  }
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: -1px;
+    left: 18%;
+    right: 18%;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--color-gold-soft), transparent);
+    pointer-events: none;
+  }
 }
 
-@utility clip-corners-sm {
-  clip-path: polygon(8px 0, 100% 0, 100% calc(100% - 8px), calc(100% - 8px) 100%, 0 100%, 0 8px);
+@utility frame-danger {
+  --frame-tone: var(--color-danger);
+}
+
+/* Garis hias emas dengan permata di tengah. */
+@utility ornament-line {
+  position: relative;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    color-mix(in srgb, var(--color-primary) 70%, transparent) 30%,
+    color-mix(in srgb, var(--color-primary) 70%, transparent) 70%,
+    transparent
+  );
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 7px;
+    height: 7px;
+    transform: translate(-50%, -50%) rotate(45deg);
+    background: var(--color-primary);
+    box-shadow: 0 0 8px color-mix(in srgb, var(--color-primary) 70%, transparent);
+  }
+}
+
+/* Teks emas bergradasi untuk judul. */
+@utility text-gold {
+  background: linear-gradient(180deg, var(--color-gold-soft), var(--color-primary) 70%);
+  background-clip: text;
+  color: transparent;
 }
 
 @layer base {
@@ -102,16 +171,32 @@
     background-color: var(--color-background);
     background-image:
       radial-gradient(
-        60rem 30rem at 10% -10%,
-        color-mix(in srgb, var(--color-accent) 20%, transparent),
+        56rem 26rem at 50% -8%,
+        color-mix(in srgb, var(--color-primary) 18%, transparent),
         transparent 70%
       ),
       radial-gradient(
-        48rem 26rem at 100% 0%,
-        color-mix(in srgb, var(--color-primary) 11%, transparent),
+        40rem 30rem at 0% 30%,
+        color-mix(in srgb, var(--color-danger) 8%, transparent),
         transparent 70%
+      ),
+      radial-gradient(
+        40rem 30rem at 100% 40%,
+        color-mix(in srgb, var(--color-accent) 7%, transparent),
+        transparent 70%
+      ),
+      /* Kisi jendela istana yang sangat samar. */
+        repeating-linear-gradient(
+          45deg,
+          color-mix(in srgb, var(--color-primary) 4%, transparent) 0 1px,
+          transparent 1px 28px
+        ),
+      repeating-linear-gradient(
+        -45deg,
+        color-mix(in srgb, var(--color-primary) 4%, transparent) 0 1px,
+        transparent 1px 28px
       );
-    background-repeat: no-repeat;
+    background-repeat: no-repeat, no-repeat, no-repeat, repeat, repeat;
     color: var(--color-foreground);
     font-family: var(--font-sans);
   }

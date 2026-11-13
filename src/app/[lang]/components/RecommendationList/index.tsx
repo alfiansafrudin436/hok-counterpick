@@ -54,49 +54,57 @@ export const RecommendationList = ({
           <li
             key={hero.name}
             className={cn(
-              'animate-rise bg-linear-to-r p-px clip-corners-sm',
-              isBest ? 'from-primary via-primary/40 to-border' : 'from-border to-border',
+              'animate-rise rounded-2xl border',
+              isBest
+                ? 'border-primary/70 shadow-[0_0_22px_-6px] shadow-primary/50'
+                : 'border-border',
             )}
           >
             <div
               className={cn(
-                'grid grid-cols-[auto_auto_1fr] items-start gap-3 bg-muted p-3 clip-corners-sm',
-                isBest && 'bg-linear-to-r from-primary/15 to-transparent',
+                'grid grid-cols-[auto_auto_1fr] items-start gap-3 rounded-2xl bg-muted/80 p-3',
+                isBest && 'bg-linear-to-br from-primary/15 via-muted/80 to-muted/80',
               )}
             >
-              <span
-                className={cn(
-                  'flex w-7 flex-col items-center pt-1 font-display text-2xl leading-none font-bold',
-                  isBest ? 'text-primary' : 'text-muted-foreground',
-                )}
-              >
-                {isBest && <CrownIcon aria-hidden className="mb-0.5 size-4" />}
-                {index + 1}
+              <span className="flex w-9 flex-col items-center gap-1 pt-2">
+                {isBest && <CrownIcon aria-hidden className="size-4 text-primary" />}
+                <span
+                  className={cn(
+                    'inline-flex size-8 rotate-45 items-center justify-center rounded-md border',
+                    isBest
+                      ? 'border-gold-soft bg-linear-to-br from-gold-soft to-primary text-primary-foreground'
+                      : 'border-primary/30 bg-background text-muted-foreground',
+                  )}
+                >
+                  <span className="-rotate-45 font-display text-sm font-bold">{index + 1}</span>
+                </span>
               </span>
-              <HeroAvatar hero={hero} className={cn(isBest && 'border-primary')} />
+              <HeroAvatar hero={hero} className={cn(isBest && 'ring-primary')} />
               <div className="min-w-0">
                 <div className="flex flex-wrap items-center gap-x-2.5 gap-y-1">
-                  <h3 className="font-display text-xl leading-tight font-bold tracking-wide">
+                  <h3 className="font-display text-lg leading-tight font-bold tracking-[0.06em] text-gold-soft">
                     {hero.name}
                   </h3>
                   <span className="text-xs text-muted-foreground">
                     {[hero.roles.join(' / '), hero.lane].filter(Boolean).join(' · ')}
                   </span>
                   {isBest && (
-                    <span className="rounded-sm bg-primary px-1.5 py-0.5 font-display text-[11px] leading-none font-bold tracking-wider text-primary-foreground uppercase">
+                    <span className="rounded-full bg-linear-to-b from-gold-soft to-primary px-2 py-0.5 font-display text-[10px] leading-none font-bold tracking-[0.12em] text-primary-foreground uppercase">
                       {dict.bestPick}
                     </span>
                   )}
                 </div>
 
                 <div className="mt-2 flex items-center gap-2.5">
-                  <div aria-hidden className="flex gap-1">
+                  <div aria-hidden className="flex gap-1.5 px-0.5">
                     {Array.from({ length: enemyCount }, (_, pip) => (
                       <span
                         key={pip}
                         className={cn(
-                          'h-1.5 w-6 -skew-x-12',
-                          pip < counters.length ? 'bg-success' : 'bg-input/60',
+                          'size-2 rotate-45',
+                          pip < counters.length
+                            ? 'bg-success shadow-[0_0_6px] shadow-success/60'
+                            : 'bg-input/60',
                         )}
                       />
                     ))}

@@ -57,7 +57,7 @@ export const CounterPicker = ({ heroes: allHeroes, itemIcons, dict }: CounterPic
         <div className="relative mt-4">
           <SearchIcon
             aria-hidden
-            className="pointer-events-none absolute top-1/2 left-3 size-[18px] -translate-y-1/2 text-muted-foreground"
+            className="pointer-events-none absolute top-1/2 left-3.5 size-[18px] -translate-y-1/2 text-primary/80"
           />
           <input
             type="search"
@@ -66,7 +66,7 @@ export const CounterPicker = ({ heroes: allHeroes, itemIcons, dict }: CounterPic
             placeholder={dict.searchPlaceholder}
             aria-label={dict.searchLabel}
             autoComplete="off"
-            className="h-11 w-full rounded-[10px] border border-input bg-background/70 pr-3 pl-10 transition-colors placeholder:text-muted-foreground focus:border-accent"
+            className="h-11 w-full rounded-full border border-primary/30 bg-background/70 pr-4 pl-10 transition-colors placeholder:text-muted-foreground focus:border-primary"
           />
         </div>
         <RoleChips
